@@ -30,8 +30,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 ---
 
 ## Projetos Destacados
-- [![PreMID](https://img.shields.io/badge/PreMID-TypeScript-3178C6?style=flat)](https://github.com/PreMID/PreMID)
-- [![PreMID/Presences](https://img.shields.io/badge/PreMID%20Presences-Storage-5865F2?style=flat)](https://github.com/PreMID/Presences)
+- [Bot de Moderação - Punishment](https://github.com/funczero/punishment): Um bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas.
+- [Status Discord no Site](https://github.com/funczero/status-discord): Um projeto em **Node.js** para exibir seu status do Discord diretamente no seu site.
+- [FuncZero API](https://github.com/funczero/funczero-api): API personalizada para integração de funcionalidades, utilizando **Express.js** e **MongoDB**.
 
 ---
 
@@ -48,7 +49,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## 📫 Como Entrar em Contato
+## 📫 Contato
 - 🌐 Website: [funczero.xyz](https://funczero.xyz)
 - 📧 E-mail: [contato@funczero.xyz](mailto:contato@funczero.xyz)
 - 🐙 GitHub: [@funczero](https://github.com/funczero)
