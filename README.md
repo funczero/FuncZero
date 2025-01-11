@@ -10,11 +10,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## WakaTime Stats (Últimos 7 dias)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=funczero-wakatime&theme=dark&hide_border=true)
-
----
-
 ## Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -53,4 +48,3 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-**Obrigado por visitar meu perfil!** 
