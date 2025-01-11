@@ -1,22 +1,22 @@
-# FuncZero 🚀
+# FuncZero
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**, **TypeScript** e outras tecnologias. Aqui você encontrará projetos, colaborações e ideias incríveis. 😄
 
 ---
 
-## 🌟 GitHub Stats
+## GitHub Stats
 ![FuncZero GitHub Stats](https://github-readme-stats.vercel.app/api?username=funczero&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funczero&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## ⏱️ WakaTime Stats (Últimos 7 dias)
+## WakaTime Stats (Últimos 7 dias)
 <!-- Substitua "seu-usuario-wakatime" pelo seu nome de usuário do WakaTime -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-usuario-wakatime&theme=dark&hide_border=true)
 
 ---
 
-## 🚀 Tecnologias e Ferramentas que Uso
+## Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -29,13 +29,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## 📌 Projetos Destacados
+## Projetos Destacados
 - [![PreMID](https://img.shields.io/badge/PreMID-TypeScript-3178C6?style=flat)](https://github.com/PreMID/PreMID)
 - [![PreMID/Presences](https://img.shields.io/badge/PreMID%20Presences-Storage-5865F2?style=flat)](https://github.com/PreMID/Presences)
 
 ---
 
-## 🎯 Minhas Conquistas
+## Minhas Conquistas
 ![Commits](https://img.shields.io/badge/Commits-6.7k-green?style=flat)
 ![Pull Requests](https://img.shields.io/badge/PRs-370-blue?style=flat)
 ![Issues](https://img.shields.io/badge/Issues-49-orange?style=flat)
