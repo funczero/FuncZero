@@ -1,6 +1,6 @@
 # FuncZero
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**, **TypeScript** e outras tecnologias. Aqui você encontrará projetos, colaborações e ideias incríveis. 😄
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**, **TypeScript** e outras tecnologias. Aqui você encontrará projetos, colaborações e ideias incríveis. 
 
 ---
 
@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ## WakaTime Stats (Últimos 7 dias)
 <!-- Substitua "seu-usuario-wakatime" pelo seu nome de usuário do WakaTime -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-usuario-wakatime&theme=dark&hide_border=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-funczero-wakatime&theme=dark&hide_border=true)
 
 ---
 
@@ -30,7 +30,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 ---
 
 ## Projetos Destacados
-- [Bot de Moderação - Punishment](https://github.com/funczero/punishment): Um bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas.
+- [Bot de Moderação - Punishment](https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands): Um bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas.
 - [Status Discord no Site](https://github.com/funczero/status-discord): Um projeto em **Node.js** para exibir seu status do Discord diretamente no seu site.
 - [FuncZero API](https://github.com/funczero/funczero-api): API personalizada para integração de funcionalidades, utilizando **Express.js** e **MongoDB**.
 
@@ -44,7 +44,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## 📊 Minhas Contribuições
+## Contribuições
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=funczero&theme=dark&hide_border=true)
 
 ---
@@ -56,4 +56,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-**Obrigado por visitar meu perfil!** 😄
+**Obrigado por visitar meu perfil!** 
