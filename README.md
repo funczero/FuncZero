@@ -37,9 +37,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 ---
 
 ## 📫 Contato
-- 🌐 Website: [funczero.xyz](https://funczero.xyz)
-- 📧 E-mail: [contato@funczero.xyz](mailto:contato@funczero.xyz)
-- 🐙 GitHub: [@funczero](https://github.com/funczero)
+- 🌐: [funczero.xyz](https://funczero.xyz)
+- 📧: [contato@funczero.xyz](mailto:contato@funczero.xyz)
+- 🐙: [@funczero](https://github.com/funczero)
 
 ---
 
