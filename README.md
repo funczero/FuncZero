@@ -24,8 +24,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 ---
 
 ## Projetos Destacados
-- [Bot de Moderação - Punishment](https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands): Um bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas.
-- [Status Discord](https://github.com/funczero/status-discord): Um projeto em **Node.js** para exibir meu status do Discord diretamente no meu site.
+- [Punishment](https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands): Bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas.
+- [Discord Status](https://github.com/funczero/discord-status): Um projeto em **Node.js** para exibir meu status do Discord diretamente no meu site.
 
 
 ## Minhas Conquistas
