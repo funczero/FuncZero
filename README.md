@@ -36,11 +36,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## Contribuições
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=funczero&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contato
 - 🌐 Website: [funczero.xyz](https://funczero.xyz)
 - 📧 E-mail: [contato@funczero.xyz](mailto:contato@funczero.xyz)
