@@ -11,8 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 ---
 
 ## WakaTime Stats (Últimos 7 dias)
-<!-- Substitua "seu-usuario-wakatime" pelo seu nome de usuário do WakaTime -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-funczero-wakatime&theme=dark&hide_border=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=funczero-wakatime&theme=dark&hide_border=true)
 
 ---
 
@@ -31,10 +30,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ## Projetos Destacados
 - [Bot de Moderação - Punishment](https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands): Um bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas.
-- [Status Discord no Site](https://github.com/funczero/status-discord): Um projeto em **Node.js** para exibir seu status do Discord diretamente no seu site.
-- [FuncZero API](https://github.com/funczero/funczero-api): API personalizada para integração de funcionalidades, utilizando **Express.js** e **MongoDB**.
+- [Status Discord](https://github.com/funczero/status-discord): Um projeto em **Node.js** para exibir meu status do Discord diretamente no meu site.
 
----
 
 ## Minhas Conquistas
 ![Commits](https://img.shields.io/badge/Commits-6.7k-green?style=flat)
