@@ -32,7 +32,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## 📫 Contato
+<h2 align="center">Contato</h2>
 
 <p align="center">
   <a href="https://funczero.xyz">
