@@ -1,16 +1,19 @@
-# FuncZero
+# <p align="center">FuncZero</p>
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**, **TypeScript** e outras tecnologias. Aqui você encontrará projetos, colaborações e ideias incríveis.
-
----
-
-## GitHub Stats
-![FuncZero GitHub Stats](https://github-readme-stats.vercel.app/api?username=funczero&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funczero&layout=compact&theme=dark&hide_border=true)
+<p align="center">Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em <strong>JavaScript</strong>, <strong>TypeScript</strong> e outras tecnologias. Aqui você encontrará projetos, colaborações e ideias incríveis.</p>
 
 ---
 
-## Tecnologias e Ferramentas
+## <p align="center">GitHub Stats</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=funczero&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="FuncZero GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funczero&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
+</p>
+
+---
+
+## <p align="center">Tecnologias e Ferramentas</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
@@ -25,19 +28,21 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em **JavaScript**
 
 ---
 
-## Projetos Destacados
+## <p align="center">Projetos Destacados</p>
 
-### **Punishment**
-[Link para o projeto](https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands)
-
-Bot de moderação poderoso desenvolvido com **JavaScript** e **TypeScript**, criado para ajudar administradores a manter suas comunidades organizadas. *(Em desenvolvimento).*
+### <p align="center">**Punishment**</p>
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands">Link para o projeto</a>
+</p>
+<p align="center">Bot de moderação poderoso desenvolvido com <strong>JavaScript</strong> e <strong>TypeScript</strong>, criado para ajudar administradores a manter suas comunidades organizadas. <em>(Em desenvolvimento).</em></p>
 
 ---
 
-### **Discord Status**
-[Link para o projeto](https://github.com/funczero/discord-status)
-
-Um projeto em **Node.js** para exibir meu status do Discord diretamente no meu site. *(Privado).*
+### <p align="center">**Discord Status**</p>
+<p align="center">
+  <a href="https://github.com/funczero/discord-status">Link para o projeto</a>
+</p>
+<p align="center">Um projeto em <strong>Node.js</strong> para exibir meu status do Discord diretamente no meu site. <em>(Privado).</em></p>
 
 ---
 
