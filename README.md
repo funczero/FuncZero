@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands">Link para o projeto</a>
 </p>
-<p align="center">Bot de moderação poderoso desenvolvido com <strong>JavaScript</strong> e <strong>TypeScript</strong>, criado para ajudar administradores a manter suas comunidades organizadas. <em>(Em desenvolvimento).</em></p>
+<p align="center">Bot de moderação poderoso desenvolvido com <strong>JavaScript</strong>, criado para ajudar administradores a manter suas comunidades organizadas. <em>(Em desenvolvimento).</em></p>
 
 ---
 
