@@ -28,24 +28,6 @@
 
 ---
 
-## <p align="center">Projetos Destacados</p>
-
-### <p align="center">**Punishment**</p>
-<p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=1155843839932764253&permissions=8&integration_type=0&scope=bot+applications.commands">Link para o projeto</a>
-</p>
-<p align="center">Bot de moderação poderoso desenvolvido com <strong>JavaScript</strong>, criado para ajudar administradores a manter suas comunidades organizadas. <em>(Em desenvolvimento).</em></p>
-
----
-
-### <p align="center">**Discord Status**</p>
-<p align="center">
-  <a href="https://github.com/funczero/discord-status">Link para o projeto</a>
-</p>
-<p align="center">Um projeto em <strong>Node.js</strong> para exibir meu status do Discord diretamente no meu site. <em>(Privado).</em></p>
-
----
-
 <h2 align="center">Contato</h2>
 
 <p align="center">
