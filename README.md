@@ -1,15 +1,18 @@
 # <p align="center">FuncZero</p>
 
-<p align="center">Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em <strong>JavaScript</strong>, <strong>TypeScript</strong> e outras tecnologias. Aqui você encontrará projetos, colaborações e ideias incríveis.</p>
+<p align="center">Bem-vindo ao meu espaço no GitHub — onde bugs viram features e ideias viram projetos (quase sempre).</p>
 
+<p align="center">Sou apaixonado por transformar café em código, especialmente com <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong> e outras tecnologias web. Aqui você encontrará projetos pessoais, automações insanas, sistemas para Discord e um ou outro experimento que talvez nem eu entenda direito.</p>
+
+---
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=funczero&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_title=true" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=funczero&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_title=true" width="400" alt="Estatísticas GitHub"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=funczero&theme=radical&hide_border=true&border_radius=10" width="400"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=funczero&theme=radical&hide_border=true&border_radius=10" width="400" alt="Contribuições consecutivas"/>
     </td>
   </tr>
 </table>
@@ -18,6 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=funczero&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=10" width="500" alt="Top Linguagens" />
 </p>
 
+---
+
+<p align="center"><strong>Stack de tecnologias favoritas:</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-121212?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript">
@@ -30,6 +36,9 @@
   <img src="https://img.shields.io/badge/Docker-121212?logo=docker&logoColor=2496ED&style=for-the-badge" alt="Docker">
 </p>
 
+---
+
+<p align="center"><strong>Se quiser acompanhar ou falar comigo:</strong></p>
 
 <p align="center">
   <a href="https://funczero.xyz">
@@ -39,3 +48,7 @@
     <img src="https://img.shields.io/badge/Email-121212?logo=gmail&logoColor=EA4335&style=for-the-badge" alt="Email">
   </a>
 </p>
+
+---
+
+<p align="center">Este perfil está em constante mutação — igual ao JavaScript.</p>
