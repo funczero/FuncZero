@@ -41,7 +41,7 @@
 
 ---
 
-<p align="center"><strong>Contato:</strong></p>
+<p align="center"><strong>Contato</strong></p>
 
 <p align="center">
   <a href="https://funczero.xyz">
