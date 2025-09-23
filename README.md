@@ -1,8 +1,11 @@
 # <p align="center">FuncZero</p>
 
-<p align="center">Bem-vindo ao meu espaço no GitHub — onde bugs viram features e ideias viram projetos (quase sempre).</p>
+<p align="center">Bem-vindo ao meu GitHub 👋</p>
 
-<p align="center">Sou apaixonado por transformar café em código, especialmente com <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong> e outras tecnologias web. Aqui você encontrará projetos pessoais, automações insanas, sistemas para Discord e um ou outro experimento que talvez nem eu entenda direito.</p>
+<p align="center">
+  Aqui você vai encontrar meus projetos pessoais, bots para Discord, automações e algumas ideias que saíram (ou não) do papel.  
+  Trabalho principalmente com <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>Node.js</strong>, mas gosto de explorar novas tecnologias sempre que possível.
+</p>
 
 ---
 
@@ -23,7 +26,7 @@
 
 ---
 
-<p align="center"><strong>Stack de tecnologias favoritas:</strong></p>
+<p align="center"><strong>Tecnologias que uso no dia a dia</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-121212?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript">
@@ -38,7 +41,7 @@
 
 ---
 
-<p align="center"><strong>Se quiser acompanhar ou falar comigo:</strong></p>
+<p align="center"><strong>Contato:</strong></p>
 
 <p align="center">
   <a href="https://funczero.xyz">
@@ -48,7 +51,3 @@
     <img src="https://img.shields.io/badge/Email-121212?logo=gmail&logoColor=EA4335&style=for-the-badge" alt="Email">
   </a>
 </p>
-
----
-
-<p align="center">Este perfil está em constante mutação — igual ao JavaScript.</p>
