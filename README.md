@@ -1,15 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Ol%C3%A1%2C+eu+sou+o+FuncZero!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Ol%C3%A1%2C+eu+sou+o+FuncZero!)](https://git.io/typing-svg)
 <br>
 
 <div align="center">
   <a href="https://funczero.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=FuncZero&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/1006909671908585586" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=FuncZero&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
   <a href="mailto:contato@funczero.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
 <br>
