@@ -1,76 +1,73 @@
-# <p align="center">FuncZero</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true"/>
 
-<p align="center">
-  👋 Olá! Seja bem-vindo ao meu GitHub
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Ol%C3%A1%2C+eu+sou+o+FuncZero!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<br>
 
-<p align="center">
-  Aqui compartilho meus projetos pessoais, bots para Discord, automações  
-  e algumas ideias que resolveram sair do papel.
-</p>
-
-<p align="center">
-  Trabalho principalmente com <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>Node.js</strong>,  
-  sempre buscando código limpo, modular e bem estruturado.
-</p>
-
----
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=funczero&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_title=true" 
-        width="400" 
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=funczero&theme=radical&hide_border=true&border_radius=10" 
-        width="400" 
-        alt="Sequência de contribuições"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=funczero&layout=compact&theme=radical&hide_border=true&border_radius=10" 
-    width="500" 
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
-<p align="center">
-  <strong>Tecnologias que uso no dia a dia</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-121212?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-121212?logo=typescript&logoColor=3178C6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-121212?logo=node.js&logoColor=339933&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-121212?logo=html5&logoColor=E34F26&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-121212?logo=css3&logoColor=1572B6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-121212?logo=mongodb&logoColor=47A248&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-121212?logo=git&logoColor=F05032&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-121212?logo=docker&logoColor=2496ED&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <strong>Onde me encontrar</strong>
-</p>
-
-<p align="center">
-  <a href="https://funczero.xyz">
-    <img src="https://img.shields.io/badge/Website-121212?logo=google-chrome&logoColor=4285F4&style=for-the-badge" />
+<div align="center">
+  <a href="https://funczero.xyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
   </a>
-  <a href="mailto:contato@funczero.xyz">
-    <img src="https://img.shields.io/badge/Email-121212?logo=gmail&logoColor=EA4335&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=FuncZero&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="mailto:contato@funczero.xyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
-</p>
+</div>
+<br>
+
+<h2 align="center">Skills</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="45" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="45" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="45" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="45" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="45" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+</div>
+
+###
+<h2 align="center">Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+</div>
+<br>
+
+<br clear="both">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/funczero/funczero/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/funczero/funczero/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/funczero/funczero/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=funczero.funczero&left_color=black&right_color=DC143C"  />
+</div>
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true&section=footer"/>
